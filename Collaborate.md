@@ -23,7 +23,7 @@
 ## How to open a Pull request
 1. Clone the repository to your system (using your Ubuntu Terminal)
 
-```git clone git@github.com:<USERNAME>/<REPOSITORY_NAME>.git```
+```git clone https://github.com:<USERNAME>/<REPOSITORY_NAME>.git```
 
 2. Create a new branch, change a file inside the repository and commit.
 
