@@ -30,9 +30,13 @@
 ``` 
 cd <REPOSITORY_NAME>
 git checkout -b <NEW_BRANCH>
-echo "This is a new line in the README" >> README.md
+```
+
+After you are done editing your new file, proceed with the usual git steps.
+
+```
 git add .
-git commit -m "Adding a new line to the README"
+git commit -m "Adding new markdown file"
 ```
 3. Now you can push your code to Github. If you push for the first time your new branch, you need to set up the upstream, as described by git. Git will also provide you with a link to open a Pull Request (PR).
 ```
