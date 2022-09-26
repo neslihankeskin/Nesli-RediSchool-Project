@@ -1,5 +1,5 @@
 # How to collaborate with git
-## Invitation of Team mates
+## Invitation of Team mates (Only one of the teammates need to do it)
 
 1. Ask for the username of the person you're inviting as a collaborator.  
 2. Open your browser and go to your github account. Open the repository that you created with the homework.  eg. https://github.com/neslihankeskin/Nesli-RediSchool-Project
@@ -25,7 +25,7 @@
 
 ```git clone https://github.com/<USERNAME>/<REPOSITORY_NAME>.git```
 
-2. Create a new branch, change a file inside the repository and commit.
+2. Create a new branch and create a new markdown file and called it something like "YOURNAME.md". Add some information into, using the markdown syntax. For more info on it check out this [link](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 ``` 
 cd <REPOSITORY_NAME>
